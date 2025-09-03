@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Jiro  
+
+🎓 A 3rd year **BSIT student** passionate about learning and building tech projects.  
+📱 Interested in **Android Development**, problem-solving, and creating useful apps.  
+🧩 I also enjoy **speedcubing**, exploring new technologies, and continuously improving my skills.  
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=codewithjiro&label=👀%20Profile%20Hits&color=00ff99&style=for-the-badge)
+
+
 
 <!--
 **codewithjiro/codewithjiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
