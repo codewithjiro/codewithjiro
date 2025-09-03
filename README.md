@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=codewithjiro&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithjiro&label=👀%20Profile%20Hits&color=00ff99&style=for-the-badge)
 
 <!--
 **codewithjiro/codewithjiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
