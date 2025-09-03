@@ -6,7 +6,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=codewithjiro&label=👀%20Profile%20Hits&color=00ff99&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithjiro&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 
 
 
