@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jiro  
+## Hi there, I'm Jiro YG 👋  
 
 🎓 A 3rd year **BSIT student** passionate about learning and building tech projects.  
 📱 Interested in **Android Development**, problem-solving, and creating useful apps.  
