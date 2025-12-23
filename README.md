@@ -1,4 +1,4 @@
-## Hi there, I'm Anton Jiro Y. Gonzales👋  
+## Hi there, I'm Anton Jiro Gonzales👋  
 
 🎓 A 3rd year **BSIT student** passionate about learning and building tech projects.  
 📱 Interested in **Android Development**, problem-solving, and creating useful apps.  
